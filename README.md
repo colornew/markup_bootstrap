@@ -9,6 +9,7 @@
 
 # Требования к верстке
 
-- Требования взяты с курса по верстке https://htmlacademy.ru/ 
-https://colornew.notion.site/c240a0fd1fc0483e8ff312a2ab160eb4
-- Если у вас есть сомнения в правомерности их использования, то свяжитесь с нами по адресу mikhail.kuklin@colornew.ru 
+- Требования https://colornew.notion.site/c240a0fd1fc0483e8ff312a2ab160eb4
+  
+---
+- Требования взяты с курса по верстке https://htmlacademy.ru/. Если у вас есть сомнения в правомерности их использования, то свяжитесь с нами по адресу mikhail.kuklin@colornew.ru 
